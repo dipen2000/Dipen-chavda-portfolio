@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
 :root{
     --primary-color : #10B981;
@@ -33,7 +33,11 @@ hr{
 .container-center{
     max-width: 600px;
     margin : auto;
-    
+}
+
+.blog-container{
+    max-width: 800px;
+    margin : auto;
 }
 
 .social-links{
@@ -76,7 +80,7 @@ hr{
 .navigation .nav-brand{
     font-weight: bold;
     font-size: 2rem;
-    font-family: 'Playball', cursive;
+    font-family: 'Righteous', cursive;
 }
 
 .navigation .link{
